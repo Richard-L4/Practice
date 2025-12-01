@@ -1,0 +1,21 @@
+# Ignore virtual environments
+venv/
+*/venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore other projects (folders outside this repo)
+../Green_Jacket/
+../Green_Jacket_1/
+../LoveSandwiches/
+../Practice2/
+../Valencia_blog/
+../codestar_blog/
+../django_project/
+../django_project3/
+../test/
+../the-majors-2/
